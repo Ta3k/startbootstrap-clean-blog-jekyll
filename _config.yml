@@ -1,16 +1,16 @@
-title:              Clean Blog
+title:              Drukuj w 3D
 email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+description:        Twoje miejsce w sieci związane z drukiem 3D
 author:             Start Bootstrap
 baseurl:            ""
 url:                "https://drukuj-w-3d.pl"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+# twitter_username:   SBootstrap
+# github_username:    StartBootstrap
+# facebook_username:  StartBootstrap
+# instagram_username:  
+# linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
