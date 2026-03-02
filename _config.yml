@@ -4,6 +4,8 @@ description:        Twoje miejsce w sieci związane z drukiem 3D
 author:             Start Bootstrap
 baseurl:            ""
 url:                "https://drukuj-w-3d.pl"
+languages:          ["pl"]
+default_lang:       "pl"
 
 # Social Profiles
 # twitter_username:   SBootstrap
@@ -23,3 +25,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-multiple-languages-plugin
